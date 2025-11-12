@@ -264,7 +264,7 @@ async def health_check() -> HealthStatus:
 
 ### 9. КОНТАКТЫ И РЕСУРСЫ
 
-- **Репозиторий проекта:** https://github.com/ZeroEVO/AI-Память-Архитектура
+- **Репозиторий проекта:**  https://github.com/ZeroEVO/AI-Memory-Architecture
 - **Документация по архитектуре:** PROJECT_SEED.md
 - **Контакты для вопросов:** t.me/NEB0ZHITEL
 
